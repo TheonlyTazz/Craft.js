@@ -9,7 +9,7 @@ Craft.js is a KubeJS script, which allows you to prepare recipes inside a Contai
 
 ## Prerequisites
 
-- **KubeJS 5**
+- **KubeJS 6+**
 
 ## Instalation
 
